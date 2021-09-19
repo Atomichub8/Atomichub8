@@ -1,4 +1,0 @@
-_G.HUM = true
-while _G.HUM do wait()
-print(หำก็น้อย เสือกเที่ยวไปแทงเค้ามั่ว ไอ้นรก!!)
-end
